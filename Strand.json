@@ -78,7 +78,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"beach-desert.png",
+         "image":"tilesets\/beach\/beach-desert.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -91,7 +91,7 @@
         {
          "columns":12,
          "firstgid":257,
-         "image":"Old.png",
+         "image":"tilesets\/beach\/Old.png",
          "imageheight":544,
          "imagewidth":384,
          "margin":0,

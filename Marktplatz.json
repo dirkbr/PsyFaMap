@@ -84,7 +84,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"tileset_town_multi_v002.png",
+         "image":"tilesets\/markt\/tileset_town_multi_v002.png",
          "imageheight":2240,
          "imagewidth":256,
          "margin":0,
@@ -5138,7 +5138,7 @@
         {
          "columns":1,
          "firstgid":561,
-         "image":"littleshrooms_0.png",
+         "image":"tilesets\/sample_tree\/littleshrooms_0.png",
          "imageheight":40,
          "imagewidth":32,
          "margin":0,
