@@ -208,6 +208,49 @@
         }, 
         {
          "draworder":"topdown",
+         "id":26,
+         "name":"text",
+         "objects":[
+                {
+                 "height":71,
+                 "id":3,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Zum Markt in die H\u00f6hle im Norden",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":97.9375,
+                 "x":1529.78125,
+                 "y":1788.5
+                }, 
+                {
+                 "height":19,
+                 "id":4,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Zum Strand durchs Loch ->",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":229.9375,
+                 "x":1354.78125,
+                 "y":2018.5
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":6,
          "name":"floorLayer",
          "objects":[],
@@ -229,8 +272,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":26,
- "nextobjectid":1,
+ "nextlayerid":27,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.6.0",
