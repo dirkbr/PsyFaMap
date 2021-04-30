@@ -1,6 +1,6 @@
 var isFirstTimeTuto = false;
-var textFirstPopup = 'Hey ! This is how to start a discussion with someone ! You can be 4 max in a bubble.';
-var textSecondPopup = 'You can also use the chat to communicate ! ';
+var textFirstPopup = 'Hey ! So beginnst du ein Gespräch. Es können maximal vier Personen in einer Bubble sein.';
+var textSecondPopup = 'Du kannst auch im Chat schreiben! ';
 var targetObjectTutoBubble ='Tutobubble';
 var targetObjectTutoChat ='tutoChat';
 var targetObjectTutoExplanation ='tutoExplanation';
@@ -8,21 +8,21 @@ var popUpExplanation = undefined;
 function launchTuto (){
     WA.openPopup(targetObjectTutoBubble, textFirstPopup, [
         {
-            label: "Next",
+            label: "Weiter",
             className: "popUpElement",
             callback: (popup) => {
                 popup.close();
 
                 WA.openPopup(targetObjectTutoChat, textSecondPopup, [
                     {
-                        label: "Open Chat",
+                        label: "Chat öffnen",
                         className: "popUpElement",
                         callback: (popup1) => {
-                            WA.sendChatMessage("Hey you can talk here too!", 'WA Guide');
+                            WA.sendChatMessage("Hier kannst du auch schreiben!", 'PsyFaKo Guide');
                             popup1.close();
-                            WA.openPopup("TutoFinal","You are good to go! Go through the gate to meet the dev team and discover the features !",[
+                            WA.openPopup("TutoFinal","Du bist jetzt Bereit! Gehe durch das Tor und erlebe die PsyFaWorld!",[
                                 {
-                                    label: "Got it!",
+                                    label: "Alles klar!",
                                     className : "success",callback:(popup2 => {
                                         popup2.close();
                                         WA.restorePlayerControl();
@@ -48,16 +48,16 @@ WA.onEnterZone('popupZone', () => {
         launchTuto();
     }
     else {
-        popUpExplanation = WA.openPopup(targetObjectTutoExplanation, 'Do you want to review the explanation?', [
+        popUpExplanation = WA.openPopup(targetObjectTutoExplanation, 'Möchtest du die die Erklärung nochmal geben?', [
             {
-                label: "No",
+                label: "Nein",
                 className: "error",
                 callback: (popup) => {
                     popup.close();
                 }
             },
             {
-                label: "Yes",
+                label: "Ja",
                 className: "success",
                 callback: (popup) => {
                     popup.close();
