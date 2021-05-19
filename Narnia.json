@@ -239,7 +239,7 @@
          "name":"B\u00e4ume top",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -250,7 +250,7 @@
          "name":"Keep in mind Start + Wege",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":15,
          "x":0,
          "y":0
