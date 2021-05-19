@@ -126,7 +126,23 @@
          "draworder":"topdown",
          "id":13,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":46,
+                 "id":1,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Zum Plenarsaal",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":860,
+                 "y":907.5
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -158,7 +174,7 @@
          "y":0
         }],
  "nextlayerid":16,
- "nextobjectid":1,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.5.0",
