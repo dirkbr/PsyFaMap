@@ -217,9 +217,9 @@
                  "id":113,
                  "properties":[
                         {
-                         "name":"colide",
+                         "name":"collide",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }, 
                 {
