@@ -32,6 +32,12 @@
          "id":16,
          "name":"Exit Snoozleraum",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneURL",
+                 "type":"string",
+                 "value":"\/Snoozleraum.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
