@@ -66,7 +66,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Plenarsaal#start-aus-Slotr\u00e4ume.json"
+                 "value":"Plenarsaal.json#start-aus-Slotr\u00e4ume"
                 }],
          "type":"tilelayer",
          "visible":true,
