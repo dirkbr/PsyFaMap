@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Narnia.json"
+                 "value":"Narnia_fertig.json"
                 }],
          "type":"tilelayer",
          "visible":true,
