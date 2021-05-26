@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Bibliothek.json#start-aus-Plenarssal"
+                 "value":"Bibliothek.json#startPlenar"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -159,7 +159,7 @@
          "name":"Boden& Wand ",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":70,
          "x":0,
          "y":0
