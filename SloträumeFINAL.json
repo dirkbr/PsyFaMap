@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Plenarsaal.json#start-aus-Slotraum"
+                 "value":"Plenarsaal.json#start-aus-Slotr\u00e4ume"
                 }],
          "type":"tilelayer",
          "visible":true,
