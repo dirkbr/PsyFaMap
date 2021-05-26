@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Wiese.json#start-aus-Stand"
+                 "value":"Wiese.json#start-aus-Strand"
                 }],
          "type":"tilelayer",
          "visible":true,
