@@ -34,6 +34,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":""
+                }, 
+                {
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
