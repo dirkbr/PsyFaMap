@@ -84,7 +84,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/konferenz.psyfako.org\/index.php\/psyfako-greifswald\/"
+                 "value":"https:\/\/konferenz.psyfako.org\/wp-content\/uploads\/image-2.png"
                 }],
          "type":"tilelayer",
          "visible":true,
