@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Narnia_fertig.json"
+                 "value":"Narnia.json"
                 }],
          "type":"tilelayer",
          "visible":true,
