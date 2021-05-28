@@ -120,7 +120,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.konferenz.psyfako.org\/wp-content\/uploads\/image-3.png"
+                 "value":"https:\/\/konferenz.psyfako.org\/wp-content\/uploads\/image-3.png"
                 }],
          "type":"tilelayer",
          "visible":true,
