@@ -108,7 +108,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Startraum.json"
+                 "value":"Startraum.json#start-aus-Bibliothek"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -359,7 +359,7 @@
          "value":"https:\/\/konferenz.psyfako.org\/wp-content\/uploads\/image-2.png"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -661,6 +661,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.5,
  "width":30
 }
