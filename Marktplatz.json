@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Snoozleraum.json"
+                 "value":"Snoozleraum.json#start-aus-Marktplatz"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Startraum.json"
+                 "value":"Startraum.json#start-aus-Marktplatz"
                 }],
          "type":"tilelayer",
          "visible":true,
