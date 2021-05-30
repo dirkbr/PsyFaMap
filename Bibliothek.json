@@ -170,6 +170,12 @@
          "id":31,
          "name":"Jitsi",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Bib"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":30,
