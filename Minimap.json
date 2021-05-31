@@ -124,7 +124,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"Startraum.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -340,7 +340,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.wa.t\u00fcdelteile.de\/_\/global\/dirkbr.github.io\/PsyFaMap\/Narnia.json"
+                 "value":"Narnia.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -661,7 +661,7 @@
          "value":"https:\/\/www.youtube.com\/embed\/t_S_cN2re4g"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -1578,6 +1578,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":60
 }
