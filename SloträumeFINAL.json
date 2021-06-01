@@ -609,149 +609,12 @@
          "width":95,
          "x":0,
          "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":32,
-         "name":"Texte",
-         "objects":[
-                {
-                 "height":18.84375,
-                 "id":7,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "halign":"center",
-                     "text":"Haithabu",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":83.71875,
-                 "x":503.686293089998,
-                 "y":965.830100583211
-                }, 
-                {
-                 "height":18.84375,
-                 "id":10,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "halign":"center",
-                     "text":"Birka",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":83.71875,
-                 "x":1364.31417873979,
-                 "y":2501.94863686085
-                }, 
-                {
-                 "height":18.84375,
-                 "id":11,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "halign":"center",
-                     "text":"Viborg",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":83.71875,
-                 "x":2101.47955833535,
-                 "y":965.724093764054
-                }, 
-                {
-                 "height":18.84375,
-                 "id":12,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "halign":"center",
-                     "text":"Kattegat",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":83.71875,
-                 "x":2005.95250563505,
-                 "y":2087.63868921385
-                }, 
-                {
-                 "height":18.84375,
-                 "id":14,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "halign":"center",
-                     "text":"Trondheim",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":83.71875,
-                 "x":727.462173373864,
-                 "y":2503.46129983929
-                }, 
-                {
-                 "height":18.84375,
-                 "id":16,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "halign":"center",
-                     "text":"Uppsala",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":83.71875,
-                 "x":1752.45667952968,
-                 "y":966.017927689764
-                }, 
-                {
-                 "height":18.84375,
-                 "id":17,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "color":"#ffffff",
-                     "halign":"center",
-                     "text":"Lund",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":83.71875,
-                 "x":2038.21425592499,
-                 "y":2502.21078849645
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
         }],
  "nextlayerid":48,
  "nextobjectid":19,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -915,6 +778,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":95
 }
