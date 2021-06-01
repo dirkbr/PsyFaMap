@@ -185,7 +185,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=koJlIGDImiU"
+                 "value":"https:\/\/www.youtube.com\/embed\/koJlIGDImiU"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -743,7 +743,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
