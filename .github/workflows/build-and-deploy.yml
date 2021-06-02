@@ -1,10 +1,7 @@
 name: Optimize map and deploy
 
 on:
-  push:
-    paths:
-    - '**.json'
-    - '**.png'
+  push
 
 jobs:
 

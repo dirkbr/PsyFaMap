@@ -3,5 +3,4 @@
 *.tiled-project
 *.tiled-session
 .comments
-tilesets/Text/Original/
-
+*.xcf
