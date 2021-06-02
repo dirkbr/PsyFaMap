@@ -30,7 +30,7 @@
                 {
                  "name":"audioVolume",
                  "type":"float",
-                 "value":0.5
+                 "value":0.1
                 }, 
                 {
                  "name":"playAudio",
