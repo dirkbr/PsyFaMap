@@ -25,6 +25,11 @@
                  "name":"exitUrl",
                  "type":"string",
                  "value":"Minimap.json"
+                }, 
+                {
+                 "name":"exitUrlTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
