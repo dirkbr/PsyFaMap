@@ -180,7 +180,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dirkbr.github.io\/PsyFaMap\/assets\/Rallye\/Markt"
+                 "value":"https:\/\/dirkbr.github.io\/PsyFaMap\/assets\/Rallye\/Markt.png"
                 }],
          "type":"tilelayer",
          "visible":true,
