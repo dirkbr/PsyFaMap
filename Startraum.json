@@ -20,6 +20,12 @@
          "id":43,
          "name":"exit-Minimap",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"Minimap.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":30,
