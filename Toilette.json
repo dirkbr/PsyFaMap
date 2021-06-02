@@ -61,6 +61,12 @@
          "id":19,
          "name":"start-aus-Startraum",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":21,
