@@ -119,7 +119,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"beach.json"
+                 "value":"beach.json#start-aus-Snoozleraum"
                 }],
          "type":"tilelayer",
          "visible":true,
