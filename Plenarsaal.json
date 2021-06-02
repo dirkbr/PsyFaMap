@@ -43,6 +43,12 @@
          "id":89,
          "name":"exit-Foto",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"Psi.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":72,
