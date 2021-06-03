@@ -516,7 +516,7 @@
         }, 
         {
          "draworder":"topdown",
-         "id":19,
+         "id":47,
          "name":"floorLayer",
          "objects":[],
          "opacity":1,
@@ -561,7 +561,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":46,
+ "nextlayerid":48,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "properties":[
@@ -571,7 +571,7 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -2396,6 +2396,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":70
 }
