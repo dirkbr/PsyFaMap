@@ -244,7 +244,17 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/zoom.us\/j\/8257069503?pwd=https:\/\/fsr.psychologie.uni-greifswald.de\/haithabu"
+                 "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/haithabu"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press on SPACE to open ZOOM"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -263,6 +273,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/uppsala"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -281,6 +296,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/viborg"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -299,6 +319,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/kattegat"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -317,6 +342,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/lund"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -335,6 +365,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/birka"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -353,6 +388,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/trondheim"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
