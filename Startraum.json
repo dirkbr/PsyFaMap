@@ -258,6 +258,11 @@
                  "value":"https:\/\/us02web.zoom.us\/j\/5751964126"
                 }, 
                 {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"camera; microphone; display-capture; autoplay; clipboard-write"
+                }, 
+                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
