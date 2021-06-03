@@ -193,7 +193,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -211,7 +211,7 @@
                  "value":"https:\/\/dirkbr.github.io\/PsyFaMap\/assets\/Raetsel.pdf"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -223,7 +223,7 @@
          "name":"Floor und Wand",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -235,7 +235,7 @@
          "name":"Wege",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -247,7 +247,7 @@
          "name":"Fenster und T\u00fcren",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -259,7 +259,7 @@
          "name":"Wand",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -271,7 +271,7 @@
          "name":"Raumbegrenzung",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -283,7 +283,7 @@
          "name":"Weg",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -295,7 +295,7 @@
          "name":"M\u00f6bel",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -307,7 +307,7 @@
          "name":"Deko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -319,7 +319,7 @@
          "name":"Deko2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -331,7 +331,7 @@
          "name":"Deko3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -343,7 +343,7 @@
          "name":"Wegweiser",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -355,7 +355,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -366,7 +366,7 @@
          "name":"Baum1-top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -378,7 +378,7 @@
          "name":"Baum2-top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -390,7 +390,7 @@
          "name":"Psychotropen",
          "opacity":0.8,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
