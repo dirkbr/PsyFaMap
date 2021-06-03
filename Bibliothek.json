@@ -178,9 +178,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"Bib"
+                 "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/kattegat"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -545,7 +545,7 @@
          "value":"https:\/\/konferenz.psyfako.org\/wp-content\/uploads\/image-2.png"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -896,6 +896,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":30
 }
