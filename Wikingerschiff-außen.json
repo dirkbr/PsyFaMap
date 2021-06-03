@@ -86,6 +86,22 @@
          "id":24,
          "name":"Shanti",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":0.4
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"audio\/Shanti.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -238,22 +254,6 @@
  "nextlayerid":25,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"audioLoop",
-         "type":"bool",
-         "value":true
-        }, 
-        {
-         "name":"audioVolume",
-         "type":"float",
-         "value":0.4
-        }, 
-        {
-         "name":"playAudio",
-         "type":"string",
-         "value":"audio\/Shanti.mp3"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.6.0",
  "tileheight":32,
