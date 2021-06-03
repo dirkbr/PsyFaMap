@@ -203,7 +203,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"snoozle"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -211,7 +211,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -241,7 +241,7 @@
          "name":"Floor und Wand",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -301,7 +301,7 @@
          "name":"Weg",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -325,7 +325,7 @@
          "name":"Deko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":23,
          "x":0,
          "y":0
@@ -417,7 +417,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -774,6 +774,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":23
 }
