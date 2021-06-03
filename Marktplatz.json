@@ -160,9 +160,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"Rathaus"
+                 "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/birka"
                 }],
          "type":"tilelayer",
          "visible":true,
