@@ -215,12 +215,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Aachen"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -238,12 +238,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Bamberg"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -261,12 +261,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-BerlinFU"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -284,12 +284,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-BerlinHU"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -307,12 +307,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Bielefeld"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -330,12 +330,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Bochum"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -353,12 +353,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Bonn"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -376,12 +376,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Bremen"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -399,12 +399,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Chemnitz"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -422,12 +422,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Darmstadt"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -445,12 +445,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Dresden"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -468,12 +468,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-D\u00fcsseldorf"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -491,12 +491,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Erfurt"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -514,12 +514,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Frankfurt"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -537,12 +537,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Greifswald"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -560,12 +560,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Gie\u00dfen"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -583,12 +583,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-G\u00f6ttingen"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -606,12 +606,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Graz"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -629,12 +629,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Greifswald"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -652,12 +652,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Halle"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -675,12 +675,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-HeidelbergSRH"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -698,12 +698,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-HeidelbergUni"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -721,12 +721,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Hildesheim"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -744,12 +744,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Innsbruck"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -767,12 +767,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Jena"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -790,12 +790,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Kassel"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -813,12 +813,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-K\u00f6lnSport"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -836,12 +836,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-K\u00f6lnUni"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -859,12 +859,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Konstanz"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -882,12 +882,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Landau"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -905,12 +905,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Leipzig"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -928,12 +928,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-L\u00fcbeck"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -951,12 +951,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-L\u00fcneburg"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -974,12 +974,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Magdeburg"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -997,12 +997,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Mainz"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1020,12 +1020,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Mannheim"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1043,12 +1043,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Marburg"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1066,12 +1066,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-M\u00fcnchenLMU"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1089,12 +1089,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-M\u00fcnster"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1112,12 +1112,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Osnabr\u00fcck"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1135,12 +1135,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Potsdam"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1158,12 +1158,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Saarbr\u00fccken"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1181,12 +1181,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Siegen"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1204,12 +1204,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-SRHFernhochschule"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1227,12 +1227,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Trier"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1250,12 +1250,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Ulm"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1273,12 +1273,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Wien"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1296,12 +1296,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Witten"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1319,12 +1319,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Wuppertal"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1342,12 +1342,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-W\u00fcrzburg"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1365,12 +1365,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-Alumni"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1388,12 +1388,12 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"P-G\u00e4ste"
+                         "value":"https:\/\/www.youtube.com\/embed\/xU3PDS108m0"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }],
@@ -1403,7 +1403,7 @@
                  "x":0,
                  "y":0
                 }],
-         "name":"Vorbereitung Jitsi-R\u00e4ume MV",
+         "name":"Vorbereitung Discord MV",
          "opacity":1,
          "type":"group",
          "visible":true,
