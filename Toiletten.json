@@ -24,7 +24,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/KPeNJCRvGsc"
+                 "value":"https:\/\/www.youtube.com\/embed\/KPeNJCRvGsc?autoplay=1"
                 }, 
                 {
                  "name":"openWebsitePolicy",
