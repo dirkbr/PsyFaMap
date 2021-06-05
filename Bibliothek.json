@@ -276,7 +276,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/nextcloud.uni-greifswald.de\/index.php\/apps\/onlyoffice\/s\/NStBwdKPcdzFgt8?fileId=707053"
+                 "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/pp1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -294,7 +294,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/nextcloud.uni-greifswald.de\/index.php\/apps\/onlyoffice\/s\/NStBwdKPcdzFgt8?fileId=706997"
+                 "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/pp2"
                 }],
          "type":"tilelayer",
          "visible":true,
