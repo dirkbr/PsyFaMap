@@ -277,6 +277,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/pp1"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -295,6 +300,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/pp2"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
