@@ -191,7 +191,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"fsr.psychologie.uni-greifswald.de\/vakjp"
+                 "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/vakjp"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -209,7 +209,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"fsr.psychologie.uni-greifswald.de\/aap"
+                 "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/aap"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -227,7 +227,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"fsr.psychologie.uni-greifswald.de\/dgvt"
+                 "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/dgvt"
                 }],
          "type":"tilelayer",
          "visible":true,
