@@ -114,6 +114,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/fsr.psychologie.uni-greifswald.de\/mensa"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -297,7 +302,7 @@
          "value":"https:\/\/dirkbr.github.io\/PsyFaMap\/assets\/Rallye\/Mensa_K\u00fcche.png"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -692,6 +697,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.5,
  "width":32
 }
