@@ -388,7 +388,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dirkbr.github.io\/PsyFaMap\/assets\/Wikingerfotos\/2 - Orakel der sprudelnden Wasserfa\u0308lle.png"
+                 "value":"https:\/\/dirkbr.github.io\/PsyFaMap\/assets\/Wikingerfotos\/2%20-%20Orakel%20der%20sprudelnden%20Wasserf%C3%A4lle.png"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -424,7 +424,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dirkbr.github.io\/PsyFaMap\/assets\/Wikingerfotos\/6 - Watzlawick und die starken Snoozleba\u0308rte.png"
+                 "value":"https:\/\/dirkbr.github.io\/PsyFaMap\/assets\/Wikingerfotos\/6%20-%20Watzlawick%20und%20die%20starken%20Snoozleb%C3%A4rte.png"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -520,7 +520,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -678,6 +678,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":50
 }
